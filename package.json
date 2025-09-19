@@ -1,0 +1,9 @@
+{
+  "name": "jennifer-lowe-portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd frontend && yarn install && yarn build",
+    "start": "cd backend && python server.py"
+  },
+  "dependencies": {}
+}
