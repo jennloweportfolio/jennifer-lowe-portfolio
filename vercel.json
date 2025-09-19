@@ -22,11 +22,5 @@
       "src": "/(.*)",
       "dest": "frontend/build/$1"
     }
-  ],
-  "env": {
-    "MONGO_URL": "@mongo_url",
-    "DB_NAME": "@db_name",
-    "GHL_API_KEY": "@ghl_api_key",
-    "GHL_LOCATION_ID": "@ghl_location_id"
-  }
+  
 }
